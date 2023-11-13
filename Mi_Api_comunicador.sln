@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mi_Api_comunicador", "Mi_Api_comunicador\Mi_Api_comunicador.csproj", "{A34FF9F1-1ECA-45E0-BFF5-DAC72F4FAE6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A34FF9F1-1ECA-45E0-BFF5-DAC72F4FAE6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34FF9F1-1ECA-45E0-BFF5-DAC72F4FAE6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34FF9F1-1ECA-45E0-BFF5-DAC72F4FAE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34FF9F1-1ECA-45E0-BFF5-DAC72F4FAE6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE38C95A-1DE0-41EA-9B8A-A2D880A0D745}
+	EndGlobalSection
+EndGlobal

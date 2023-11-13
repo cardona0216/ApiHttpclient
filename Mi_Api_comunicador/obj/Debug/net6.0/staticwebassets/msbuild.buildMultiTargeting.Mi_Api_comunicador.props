@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mi_Api_comunicador.props" />
+</Project>
